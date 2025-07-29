@@ -10,7 +10,7 @@ The dataset used for this task is <a href="https://github.com/kindo-tk/PRODIGY_D
 - Jupyter notebook
 - Pandas
 - Numpy
-- Matplotlip & Seaborn for visualization
+- Matplotlib & Seaborn for visualization
 
 
 
